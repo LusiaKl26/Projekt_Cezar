@@ -140,5 +140,3 @@ bool getOutputAndSave(const string& result) {string outputFilename;
     outfhandle << result;
     return true;
 }
-
-//C:\Users\kucha\OneDrive\Pulpit\wejscie.txt
